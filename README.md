@@ -3,12 +3,6 @@
 
 50 Derste Asp.Net Mvc ile Tatil & Seyahat Sitesi" projesini tamamladım ve bu süreçte MVC ve .net teknolojisine dair bildiklerimi sağlamlaştırdım.
 
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-
 Projemde, MVC mimarisinin omurgasını oluşturan Controller yapısını öğrendim. Bu sayede, kullanıcı isteklerini alıp işleyerek, veritabanıyla etkileşime geçebilme ve sonuçları görüntüleme konusundaki becerilerimi arttırdım."
 
 Web sayfalarının düzenini belirlemek için Layout yapısını kavrayarak, Partial View kullanımıyla yeteneklerimi geliştirdim. Bu sayede, web sayfalarının yapısını daha verimli bir şekilde oluşturup, tekrar kullanılabilir ve modüler bileşenlerle daha esnek bir yapı elde ettim.
