@@ -3,6 +3,12 @@
 
 50 Derste Asp.Net Mvc ile Tatil & Seyahat Sitesi" projesini tamamladım ve bu süreçte MVC ve .net teknolojisine dair bildiklerimi sağlamlaştırdım.
 
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+
 Projemde, MVC mimarisinin omurgasını oluşturan Controller yapısını öğrendim. Bu sayede, kullanıcı isteklerini alıp işleyerek, veritabanıyla etkileşime geçebilme ve sonuçları görüntüleme konusundaki becerilerimi arttırdım."
 
 Web sayfalarının düzenini belirlemek için Layout yapısını kavrayarak, Partial View kullanımıyla yeteneklerimi geliştirdim. Bu sayede, web sayfalarının yapısını daha verimli bir şekilde oluşturup, tekrar kullanılabilir ve modüler bileşenlerle daha esnek bir yapı elde ettim.
@@ -25,13 +31,16 @@ Bu kurs, MVC ile ilgili bilgi edinme fırsatı sunarak, teorik bilgilerimi gerç
 ![image](https://github.com/merkurluxury/MVCTravel/assets/67855084/e563c743-bc89-4dcd-8823-cbeee7a2d653)
 
 
+## Setup
 
 
-## Kurulum
+```
+$ Projeyi klonlayın
+$ Visual Studio'da projeyi açın
+$ MSSQL veritabanınızı oluşturun ve bağlantı ayarlarını appsettings.json dosyasında güncelleyin
+$ Package Manager Console'u kullanarak veritabanını oluşturun: Update-Database
+$  Projeyi çalıştırın
+```
 
-1. Projeyi klonlayın
-2. Visual Studio'da projeyi açın
-3. MSSQL veritabanınızı oluşturun ve bağlantı ayarlarını appsettings.json dosyasında güncelleyin
-4. Package Manager Console'u kullanarak veritabanını oluşturun: Update-Database
-5. Projeyi çalıştırın
+
 
