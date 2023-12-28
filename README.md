@@ -1,4 +1,4 @@
-#Asp.Net Mvc ile Tatil & Seyahat Sitesi
+# Asp.Net Mvc ile Tatil & Seyahat Sitesi
 
 
 50 Derste Asp.Net Mvc ile Tatil & Seyahat Sitesi" projesini tamamladım ve bu süreçte MVC ve .net teknolojisine dair bildiklerimi sağlamlaştırdım.
